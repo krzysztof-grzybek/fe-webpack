@@ -1,5 +1,7 @@
 import { calculateAverage } from './math.js';
+
 console.log(1_000_000)
+
 const button = document.querySelector('button');
 
 button.addEventListener('click', () => {

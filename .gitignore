@@ -1,3 +1,4 @@
 .idea
-webpack/dist
+**/dist/**
+**/dist/**
 **/node_modules/**
