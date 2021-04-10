@@ -5,4 +5,4 @@ function calculateAverage(arrayOfNumbers) {
     return arrayOfNumbers.reduce((acc, curr) => acc + curr, 0) / arrayOfNumbers.length;
 }
 
-exports.calculateAverage = calculateAverage;
+module.exports.calculateAverage = calculateAverage;
